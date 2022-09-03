@@ -2,7 +2,7 @@
 
 I now have only the file called : Fill in NaN with Random Forest Algorithm, cuML and cuDF.
 
-It's highly possible to update much more cuDF and cuML project in this repository.
+It's highly possible to update much more cuDF and cuML projects in the repository.
 
 
 
