@@ -1,8 +1,10 @@
 # cuDF-and-cuML
 
-Fill in NaN with Random Forest Algorithm, cuML and cuDF
+I now have only the file called : Fill in NaN with Random Forest Algorithm, cuML and cuDF.
 
-GPU : Quadro 5000
+It's highly possible to update much more cuDF and cuML project in this repository.
+
+
 
 ```
 +-----------------------------------------------------------------------------+
@@ -16,6 +18,4 @@ GPU : Quadro 5000
 | 33%   33C    P8     8W / 230W |   1305MiB / 16384MiB |      0%      Default |
 |                               |                      |                  N/A |
 +-------------------------------+----------------------+----------------------+
-
-
 ```
